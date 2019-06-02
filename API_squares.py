@@ -10,7 +10,6 @@ def makeLines(sketch, core, lines, origin, constraints, points, dimensions, arcs
     
     p_center = points.add(core(0, 0, 0))
     p_center.isFixed = True
-    # Construction lines
 
     
     for i in range(2, 6):
