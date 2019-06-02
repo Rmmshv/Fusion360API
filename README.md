@@ -1,6 +1,6 @@
 # Fusion360API
 
-A 2D sketch made by using Fusion360 API
+A 2D sketch made with Fusion360 API
 
 To get familiar with F360 API:
 http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A92A4B10-3781-4925-94C6-47DA85A4F65A
